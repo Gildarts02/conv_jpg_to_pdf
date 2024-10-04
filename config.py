@@ -1,0 +1,2 @@
+OpenAIKey = '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'
+TOKEN = '7118940921:AAGkwXNvgA6gpe9PwOoK7-N5vFyzVWqa6NM'
